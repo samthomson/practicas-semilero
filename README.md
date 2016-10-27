@@ -1,6 +1,6 @@
 cronometro
 ==========
 
-Cronometro base javascritp
+Cronometro base javascript
 Feeds de una cuenta de twitter
 
